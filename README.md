@@ -1,1 +1,2 @@
 # odin-recipes
+This project exists to practice my skills with HTML by building a basic website that contains a list of recipes. By the end of the project, I should be able to create a basic HTML-only website. 
